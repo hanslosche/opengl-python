@@ -19,3 +19,10 @@ https://github.com/adamlwgriffiths/Pyrr
 Friendly PIL ford (Python Imaging Library) pillow is used to load texture for texturing
 
 - pip install pillow
+
+
+- import OpenGL
+- from OpenGL.GLU import *
+- from OpenGL.GL import *
+- from OpenGL.arrays import vbo
+- from OpenGLContext.arrays import *
