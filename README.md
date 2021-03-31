@@ -1,5 +1,5 @@
 
-## openGL
+## opengl
 https://github.com/mcfletch/pyopengl
 
 - $ pip install PyOpenGL
